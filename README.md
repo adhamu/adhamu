@@ -1,7 +1,4 @@
-<h1>
-  Amit Dhamu 👨🏽‍💻
-  <span style="float:right">🏎</span>
-</h1>
+# Amit Dhamu 👨🏽‍💻 🚀🏎
 
 Hi there!
 
