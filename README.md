@@ -14,10 +14,13 @@ I'm Amit, a Software Engineer from Leicester currently working as a Full Stack E
 
 ## Projects
 
-| Project                                                                                                         | Description                                        |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [Kaleidoscope](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)                         | a bright and colourful VSCode theme                |
-| [History in Sublime Merge](https://marketplace.visualstudio.com/items?itemName=adhamu.history-in-sublime-merge) | a VSCode plugin that integrates with Sublime Merge |
+| Project                                                                                                           | Description                                                       |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Kaleidoscope](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)\*                         | a bright and colourful VSCode theme                               |
+| [History in Sublime Merge](https://marketplace.visualstudio.com/items?itemName=adhamu.history-in-sublime-merge)\* | a VSCode plugin that integrates with Sublime Merge                |
+| [Startpage](https://github.com/adhamu/startpage)                                                                | a dead simple customisable startpage powered by React & IndexedDB |
+
+\* Also available at the [Open VSX Registry](https://open-vsx.org)
 
 ## Connect
 
