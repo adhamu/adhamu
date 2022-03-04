@@ -14,11 +14,12 @@ I'm Amit, a Software Engineer from Leicester currently working at Dunelm.
 
 ## Projects
 
-| Project                                                                                                           | Description                                                       |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Kaleidoscope](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)\*                         | a bright and colourful VSCode theme                               |
-| [History in Sublime Merge](https://marketplace.visualstudio.com/items?itemName=adhamu.history-in-sublime-merge)\* | a VSCode plugin that integrates with Sublime Merge                |
-| [Startpage](https://github.com/adhamu/startpage)                                                                  | a dead simple customisable startpage powered by React & IndexedDB |
+| Project                                                                                                           | Description                                                            |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Kaleidoscope](https://marketplace.visualstudio.com/items?itemName=adhamu.kaleidoscope)\*                         | a bright and colourful VSCode theme                                    |
+| [History in Sublime Merge](https://marketplace.visualstudio.com/items?itemName=adhamu.history-in-sublime-merge)\* | a VSCode plugin that integrates with Sublime Merge                     |
+| [Startpage](https://github.com/adhamu/startpage)                                                                  | a dead simple customisable startpage powered by React & IndexedDB      |
+| [React Search Suggestions](https://github.com/adhamu/react-search-suggestions)                                    | An input component with a pluggable data source for search suggestions |
 
 \* Also available at the [Open VSX Registry](https://open-vsx.org)
 
