@@ -22,7 +22,7 @@ I'm Amit, a Software Engineer from Leicester currently working at Dunelm.
 | [React Input Suggestions](https://github.com/adhamu/react-input-suggestions)                                      | An input component with a pluggable data source for search suggestions and autocomplete |
 | [Arge](https://github.com/adhamu/arge)                                                                            | A tiny package to parse CLI flags and arguments into an object.                         |
 
-\* Also available at the [Open VSX Registry](https://open-vsx.org)
+\* Also available at the [Open VSX Registry](https://open-vsx.org/?search=adhamu)
 
 ## Connect
 
