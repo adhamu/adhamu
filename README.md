@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm Amit, a Software Engineer from Leicester currently working at Dunelm.
+I'm Amit, a Software Engineer from Leicester currently working at Pizza Hut.
 
 ## Skills
 
