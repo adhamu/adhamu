@@ -27,5 +27,5 @@ I'm Amit, a Software Engineer from Leicester currently working at Pizza Hut.
 ## Connect
 
 - [Personal Website](https://amitd.co)
-- [Twitter](https://twitter.com/adhamu)
+- [X](https://x.com/amitdhamu)
 - [LinkedIn](https://www.linkedin.com/pub/amit-dhamu/30/797/806)
